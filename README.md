@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Samuel Gichu
 
-<!--
-**kibzsam/kibzsam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Flutter Developer | Mobile Engineer | Frontend Developer | AI-Driven Builder
 
-Here are some ideas to get you started:
+I build high-performance mobile and web applications using **Flutter, Dart, React, Next.js and TypeScript**.  
+With 6+ years experience across Fintech, Real Estate, Startups, NGO and Blockchain ecosystems, I focus on clean architecture, reusable components, and production-ready code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently expanding into **AI Engineering using Python + FastAPI and MCP workflows**, building intelligent mobile features and autonomous trading systems.
+
+---
+
+## 🚀 Tech Stack
+- **Mobile:** Flutter, Dart, React Native  
+- **Web:** React.js, Next.js, TypeScript, Tailwind  
+- **Backend:** Python, FastAPI, Firebase, Supabase  
+- **AI:** LLMs, MCP Servers, AI Agents, Automation  
+- **Tools:** Git, CI/CD, Docker, App Distribution
+
+---
+
+## 📌 Current Focus
+- Building an **Autonomous AI Trading GPT**  
+- Strengthening advanced Flutter architecture skills  
+- Building AI-assisted mobile workflows  
+
+---
+
+## 📫 Contact
+- LinkedIn: [Samuel Gichu](https://www.linkedin.com/in/samuel-gichu-a29695b9)
+- Email: kibochas@gmail.com
