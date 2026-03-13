@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Samuel Gichu
 
-### Software Engineer | Flutter • React Native • React.js •Tanstack • Express JS | AI-Powered Development |
+### Senior Software Engineer | Mobile (Flutter) & Full-Stack | AI-Powered Market Tools & Web3
 
 I build high-performance mobile and web applications using **Flutter, Dart, React, Next.js and TypeScript**.  
 With 6+ years experience across Fintech, Real Estate, Startups, NGO and Blockchain ecosystems, I focus on clean architecture, reusable components, and production-ready code.
